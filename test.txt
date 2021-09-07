@@ -1,0 +1,48 @@
+Last login: Tue Sep  7 11:30:20 on ttys002
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+MacBook-van-Gokhan:~ Gokhan$ cd ~/Download/keytest
+-bash: cd: /Users/Gokhan/Download/keytest: No such file or directory
+MacBook-van-Gokhan:~ Gokhan$ cd ~/Download
+-bash: cd: /Users/Gokhan/Download: No such file or directory
+MacBook-van-Gokhan:~ Gokhan$ cd ~/Downloads/keytest
+MacBook-van-Gokhan:keytest Gokhan$ git add test2.t.xt
+fatal: pathspec 'test2.t.xt' did not match any files
+MacBook-van-Gokhan:keytest Gokhan$ git add test.txt
+fatal: pathspec 'test.txt' did not match any files
+MacBook-van-Gokhan:keytest Gokhan$ vi test.txt
+
+
+
+
+
+
+
+
+
+
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+"test.txt" [New]
